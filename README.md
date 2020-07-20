@@ -125,3 +125,5 @@ You will need to ping the `/emails` URL with the parameters described in the `js
 In the `node/` project, run `npm run create-migration -- <name>` to create a migration.
 
 Run `npm run create-seeder -- <name>` to create a seeder.
+
+Created by Hristo Dmitirov, Jack Light, Alex Sibanda, Calum Mcalinden
