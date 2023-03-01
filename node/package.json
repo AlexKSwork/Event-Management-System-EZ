@@ -54,7 +54,7 @@
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
     "date-fns": "^2.11.0",
-    "db-migrate": "^0.11.6",
+    "db-migrate": "^0.11.13",
     "db-migrate-mongodb": "^1.5.0",
     "dotenv": "^8.2.0",
     "email-templates": "^7.0.4",
